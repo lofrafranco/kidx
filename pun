@@ -1,11 +1,5 @@
 #EXTM3U#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-name="Camp Spoopy" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t3Jsks7.png" group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1 tvg-id="CountryBoyKidsVideoBumblebee.us" tvg-name="Country Boy Kids Video (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2FCountry-Boy-Kid-Videos.png?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=9ac04ff1b743deaf39f243fef93ceded" group-title="Kids",Country Boy Kids Video (Bumblebee)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
-#EXTINF:-1 tvg-id="HappyKids.us" tvg-name="HappyKids" tvg-country="US" tvg-language="English" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Kids",HappyKids
-https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-name="HappyKids Junior" tvg-country="US" tvg-language="English" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Kids",HappyKids Junior
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="kabillion.us" tvg-name="kabillion" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ybvtlg.png" group-title="Kids",kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="KartoonCircus.us" tvg-name="Kartoon Circus" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KartoonFunTime_209x209.png?raw=true" group-title="Kids",Kartoon Circus
